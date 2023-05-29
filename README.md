@@ -12,11 +12,12 @@
 
 **Fikol171/Fikol171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  
+  ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikol171&layout=compact&green=blue)
   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fikol171&theme=gruvbox)](https://git.io/streak-stats)
   
+  ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fikol171&layout=compact&theme=blue-green)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
